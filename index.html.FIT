@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project Proposal - FIT OMU</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    background:#f4f4f4;
+    line-height:1.8;
+}
+
+header{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+.container{
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+}
+
+h2{
+    color:#003366;
+    border-bottom:2px solid #003366;
+    padding-bottom:5px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:10px;
+}
+
+table,th,td{
+    border:1px solid #000;
+}
+
+th,td{
+    padding:10px;
+    text-align:center;
+}
+
+footer{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+    <h1>Faculty of Information Technology</h1>
+    <h3>Omar Al-Mukhtar University</h3>
+    <h2>Project Proposal</h2>
+</header>
+
+<div class="container">
+
+<h2>Project Title</h2>
+<p>
+Informational Website for the Faculty of Information Technology – Omar Al-Mukhtar University
+</p>
+
+<h2>Team Members</h2>
+<ul>
+<li>Mohammed Hassan Mohammed</li>
+<li>Salem Fawzi Salem</li>
+<li>Aseel Abdulrahim AbuBakr</li>
+</ul>
+
+<h2>Introduction</h2>
+<p>
+The Faculty of Information Technology at Omar Al-Mukhtar University plays an important role in preparing students in various computing fields. This project aims to create an informative website that provides organized information about the faculty, departments, academic programs, faculty members, news, and activities.
+</p>
+
+<h2>Objectives</h2>
+<ul>
+<li>Create a user-friendly website.</li>
+<li>Provide information about departments and academic programs.</li>
+<li>Display news and announcements.</li>
+<li>Improve communication with students.</li>
+<li>Create a responsive design for all devices.</li>
+<li>Enhance the faculty's digital presence.</li>
+</ul>
+
+<h2>Technologies Used</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+
+<h2>Target Audience</h2>
+<ul>
+<li>Current Students</li>
+<li>Prospective Students</li>
+<li>Faculty Members</li>
+<li>Administrative Staff</li>
+<li>Visitors</li>
+</ul>
+
+<h2>Features</h2>
+<ul>
+<li>Home Page</li>
+<li>About Faculty Page</li>
+<li>Departments Information</li>
+<li>Faculty Members Information</li>
+<li>News and Announcements</li>
+<li>Events and Activities</li>
+<li>Contact Page</li>
+<li>Responsive Design</li>
+<li>Interactive Navigation Menu</li>
+</ul>
+
+<h2>Implementation Plan</h2>
+<ol>
+<li>Research and Planning</li>
+<li>Website Structure Design</li>
+<li>Wireframe Design</li>
+<li>HTML Development</li>
+<li>CSS Styling</li>
+<li>JavaScript Implementation</li>
+<li>Testing and Debugging</li>
+<li>Deployment</li>
+</ol>
+
+<h2>Timeline</h2>
+
+<table>
+<tr>
+<th>Task</th>
+<th>Estimated Time</th>
+</tr>
+
+<tr>
+<td>Research & Planning</td>
+<td>1 Week</td>
+</tr>
+
+<tr>
+<td>Design</td>
+<td>1 Week</td>
+</tr>
+
+<tr>
+<td>Development</td>
+<td>2 Weeks</td>
+</tr>
+
+<tr>
+<td>Testing</td>
+<td>1 Week</td>
+</tr>
+
+<tr>
+<td>Final Review</td>
+<td>1 Week</td>
+</tr>
+
+</table>
+
+<h2>Conclusion</h2>
+<p>
+This project will provide an effective online platform for the Faculty of Information Technology at Omar Al-Mukhtar University. It will improve access to information and strengthen communication between the faculty and its students.
+</p>
+
+<h2>References</h2>
+<ul>
+<li>HTML Documentation</li>
+<li>CSS Documentation</li>
+<li>JavaScript Documentation</li>
+<li>Web Development Tutorials</li>
+<li>Omar Al-Mukhtar University Resources</li>
+</ul>
+
+</div>
+
+<footer>
+© 2026 Faculty of Information Technology - Omar Al-Mukhtar University
+</footer>
+
+</body>
+</html>
