@@ -1,0 +1,167 @@
+document.body.innerHTML = `
+
+<h1>Project Proposal</h1>
+
+<h2>Project Title:</h2>
+<p>
+Informational Website for the Faculty of Information Technology - Omar Al-Mukhtar University
+</p>
+
+
+<h2>Team Members:</h2>
+<ul>
+<li>Mohammed Hassan Mohammed - University ID: 1724453</li>
+<li>Aseel Abdulrahim AbuBakr - University ID: 1724429</li>
+<li>Salem Fawzi Salem - University ID: 1724025</li>
+</ul>
+
+
+<h2>1- Introduction:</h2>
+
+<p>
+The Faculty of Information Technology at Omar Al-Mukhtar University is one of the important faculties that prepares students in different fields of computer science and information systems.
+
+This project aims to develop an informational website for the Faculty of Information Technology that provides students, faculty members, and visitors with easy access to important information about the faculty, departments, academic programs, news, and activities.
+</p>
+
+
+<h2>2- Objectives:</h2>
+
+<ul>
+<li>Create a user-friendly informational website for the faculty.</li>
+<li>Provide information about departments and academic programs.</li>
+<li>Display news, announcements, and events.</li>
+<li>Improve communication between students and faculty administration.</li>
+<li>Create a responsive website for computers, tablets, and smartphones.</li>
+<li>Enhance the digital presence of the faculty.</li>
+</ul>
+
+
+<h2>Technologies Used:</h2>
+
+<ul>
+<li>HTML: To build and structure the website content.</li>
+<li>CSS: To design and style the website pages.</li>
+<li>JavaScript: To add interactive features and dynamic content.</li>
+</ul>
+
+
+<h2>3- Project Description:</h2>
+
+<p>
+The project is an informational website that helps users access academic and administrative information through one platform.
+</p>
+
+
+<h2>Target Audience:</h2>
+
+<ul>
+<li>Current Students.</li>
+<li>Prospective Students.</li>
+<li>Faculty Members.</li>
+<li>Administrative Staff.</li>
+<li>Visitors.</li>
+</ul>
+
+
+<h2>4- Features:</h2>
+
+<ul>
+<li>Home Page.</li>
+<li>About Faculty Page.</li>
+<li>Departments Information.</li>
+<li>Faculty Members Information.</li>
+<li>News and Announcements.</li>
+<li>Events and Activities.</li>
+<li>Contact Page.</li>
+<li>Responsive Design.</li>
+<li>Interactive Navigation Menu.</li>
+<li>Contact Form.</li>
+</ul>
+
+
+<h2>5- Initial Design Plan:</h2>
+
+<ul>
+<li>Header containing the faculty logo and navigation menu.</li>
+<li>Home page with welcome message and main content.</li>
+<li>Pages for departments and academic programs.</li>
+<li>News and events section.</li>
+<li>Contact page with communication information.</li>
+<li>Footer containing contact information and social media links.</li>
+</ul>
+
+
+<h2>6- Implementation Plan:</h2>
+
+<ol>
+<li>Requirements gathering and research.</li>
+<li>Planning website structure and content.</li>
+<li>Designing page layouts.</li>
+<li>Developing HTML pages.</li>
+<li>Styling pages using CSS.</li>
+<li>Adding JavaScript functions.</li>
+<li>Testing and debugging.</li>
+<li>Final review and deployment.</li>
+</ol>
+
+
+<h2>7- Timeline:</h2>
+
+<table border="1">
+
+<tr>
+<th>Task</th>
+<th>Estimated Time</th>
+</tr>
+
+<tr>
+<td>Research and Planning</td>
+<td>One Week</td>
+</tr>
+
+<tr>
+<td>Design</td>
+<td>One Week</td>
+</tr>
+
+<tr>
+<td>Development</td>
+<td>Two Weeks</td>
+</tr>
+
+<tr>
+<td>Testing</td>
+<td>One Week</td>
+</tr>
+
+<tr>
+<td>Final Review and Deployment</td>
+<td>One Week</td>
+</tr>
+
+</table>
+
+
+<h2>8- Conclusion:</h2>
+
+<p>
+This project will provide an effective online platform for the Faculty of Information Technology at Omar Al-Mukhtar University. It will improve access to information, enhance communication with students and visitors, and support the digital presence of the faculty.
+</p>
+
+
+<h2>References:</h2>
+
+<ul>
+<li>Official HTML Documentation.</li>
+<li>Official CSS Documentation.</li>
+<li>Official JavaScript Documentation.</li>
+<li>Web Development Tutorials.</li>
+<li>Omar Al-Mukhtar University Resources.</li>
+</ul>
+
+`;
+
+document.body.style.fontFamily = "Arial";
+document.body.style.lineHeight = "1.8";
+document.body.style.background = "#f4f4f4";
